@@ -1,2 +1,2 @@
 # sigma-demo
-try to teach github
+try to teach github.
